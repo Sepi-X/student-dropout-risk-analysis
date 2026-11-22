@@ -1,6 +1,6 @@
 # Student Dropout Risk Analysis
 
-Final project for the **Foundations of Computer Science** course (2026), written in Python with pandas and NumPy.
+Final project for the **Foundations of Computer Science** course, **MSc in Data Science, University of Milano-Bicocca** (2026). Written in Python with pandas and NumPy.
 
 The project studies a dataset of **100,000 university students** (34 columns: demographic, economic, academic and behavioural data). The goal is to understand which factors are linked to **dropout** (`dropout = 1`) and to build a simple risk score.
 
