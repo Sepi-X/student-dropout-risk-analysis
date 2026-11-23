@@ -41,7 +41,7 @@ Everything is in one notebook: [`foundations_cs_project.ipynb`](foundations_cs_p
 The project was developed with **Anaconda** and **Jupyter Notebook**. Anaconda already includes Python, pandas, NumPy and Jupyter, so there is nothing else to install.
 
 1. Install [Anaconda](https://www.anaconda.com/download) if you do not have it.
-2. Download the dataset `student_dropout_risk_2026.csv.gz` from the course website and put it in the same folder as the notebook (no need to unzip it, pandas reads `.gz` files). The data file is **not** included in this repository.
+2. The dataset `student_dropout_risk_2026.csv.gz` (provided by the course) is included in this repository, in the same folder as the notebook. There is no need to unzip it: pandas reads `.gz` files directly.
 3. Open **Anaconda Navigator** and launch **Jupyter Notebook**. Alternatively, open the **Anaconda Prompt**, go to the project folder and run:
    ```bash
    jupyter notebook
